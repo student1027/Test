@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Przyklad</title>
+	</head>
+
+	<body>
+		<p>Przykladowy tekst</p>
+	
+		<form>
+			<input type="text" name="imie"/>
+		</form>
+	</body>
+</html>
