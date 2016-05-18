@@ -10,5 +10,11 @@
 		<form>
 			<input type="text" name="imie"/>
 		</form>
+
+		<p>Przykladowy tekst</p>
+	
+		<form>
+			<input type="text" name="nazwisko"/>
+		</form>
 	</body>
 </html>
